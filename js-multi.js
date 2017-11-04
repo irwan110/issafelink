@@ -22,7 +22,7 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="11/how-to-find-best-digital-camera.html"}
-if(x=="2"){xxx="11/staying-motivated-to-exercise.html"}
+if(x=="2"){xxx="11/canon-digital-camera.html"}
 if(x=="3"){xxx="11/the-importance-of-working-your-core.html"}a_to_ve[i].href="https://issfelink.blogspot.com/2017/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
