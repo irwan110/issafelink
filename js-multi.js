@@ -24,8 +24,8 @@ var xxx=null;
 if(x=="1"){xxx="11/how-to-find-best-digital-camera.html"}
 if(x=="2"){xxx="11/canon-digital-camera.html"}
 if(x=="3"){xxx="11/professional-data-recovery-services.html"}
-if(x=="4"){xxx="11/canon-digital-camera.html"}
-if(x=="5"){xxx="11/professional-data-recovery-services.html"}a_to_ve[i].href="https://issfelink.blogspot.com/2017/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="11/influencing-jewelry-to-discount.html"}
+if(x=="5"){xxx="11/inside-decorating-plans-for-your-home.html"}a_to_ve[i].href="https://issfelink.blogspot.com/2017/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
